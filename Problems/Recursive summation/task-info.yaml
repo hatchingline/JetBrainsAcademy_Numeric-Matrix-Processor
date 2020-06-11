@@ -1,0 +1,12 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def rec_sum(n):
+        # write the insides here!
+        return
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7670
+status: Solved
+record: -1

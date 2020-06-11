@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def list_sum(some_list):
+        if some_list == []:
+            return 0
+        elif ...:  # base case
+            return some_list[0]
+        else:
+            return  # recursive case
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7671
+status: Solved
+record: -1
